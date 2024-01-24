@@ -1,0 +1,15 @@
+{
+    "gold": 0,
+    "power": 1,
+    "mana": 0,
+    "Experience": 0,
+    "damage": 2,
+    "sdamage": 0,
+    "health": 20,
+    "pArmor": 0,
+    "mArmor": 0,
+    "d": 0,
+    "name": null,
+    "magic": null,
+    "weapon": null
+}
